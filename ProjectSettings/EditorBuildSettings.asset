@@ -6,10 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Game/Environment/Old Sea Port/scenes/Dock Thing.unity
-    guid: f4fc660ad7cf6eb4eb8cd6d109f7608e
+    path: Assets/_Game/Main.unity
+    guid: c7135696e88c7f64ebb858b013989322
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e18cdeb354a180c43937b0405a273b22,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b1610695a4bb69c4184fc1711822833f,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b4a17e6f5b08c904f98c68e1c81e6587,
       type: 2}
